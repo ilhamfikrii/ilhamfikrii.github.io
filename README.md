@@ -47,7 +47,7 @@ Just download the file via zip file or fork my repository.
 
 ## Author Info
 
-- Instragram - [@gustibagusbayu](https://instagram.com/gustibagusbayu)
-- Website - [Padlabs.id](https://gustibagusbayu.github.io/)
+- Instragram - [@ilhamfiikri](https://instagram.com/ilhamfiikri)
+<!-- - Website - [Padlabs.id](https://gustibagusbayu.github.io/) -->
 
 [Back To The Top](#read-me-padlabs)
